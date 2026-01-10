@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Wikipedia"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+ <!-- Comments look like this -->
+ <metadata>
+  <name>Data name</name>
+  <desc>Valid Points d'interet</desc>
+  <author>
+   <name>JLM</name>
+  </author>
+ </metadata>
+ <wpt lat="42.503255" lon="2.077451">
+  <ele>1620</ele>
+  <name>Boucherie Epicerie Blanc</name>
+  <sym>POI</sym>
+ </wpt>
+ <wpt lat="42.4331932" lon="1.9457670">
+  <ele>1150</ele>
+  <name>Maison Pouget</name>
+  <sym>POI</sym>
+ </wpt>
+</gpx>

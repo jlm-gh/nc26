@@ -1,4 +1,4 @@
-Les POI (Points d'interet)
+Les POI (Points d'intérêt) voir fichier [poi.gpx](./poi.gpx)
 
 ## Carburants
 Les road-book comportent des stations service — dûment choisies — en tant que points de passage.  
