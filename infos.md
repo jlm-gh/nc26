@@ -11,7 +11,8 @@ Une spécificité espagnole, que l'on retrouve aussi en Cerdagne, les gens respe
 
 ## Restauration
 
-Beaucoup de restaurants en Espagne ne servent pas avant 13 heures, donc pour les affamés, prenez un gros petit dej ou prévoyez la pause méridienne en France.
+Beaucoup de restaurants en Espagne ne servent pas avant 13 heures, donc pour les affamés, prenez un gros petit dej ou prévoyez la pause méridienne en France.  
+Pour les amateurs de café, un expresso, c'est un ***café solo***, si vous demandez ***un café***, vous aurez un café au lait !
 
 ## Bonnes adresses
 
