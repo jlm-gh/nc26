@@ -1,3 +1,13 @@
+## Roadbook
+
+Les roadbooks se déclinent, si possible :
+- En versions courtes ~200 km
+- En versions normales ~ 250 km
+- En versions longues ~300 km.
+
+Le *mar i muntanya* lui fait 372 km et c'est incompressible. Attention c'est pour les gros rouleurs (qui se lèvent tôt)
+
+## POI
 Les POI (Points d'intérêt) voir fichier [poi.gpx](./poi.gpx)
 
 ## Carburants
@@ -12,7 +22,7 @@ Une spécificité espagnole, que l'on retrouve aussi en Cerdagne, les gens respe
 ## Restauration
 
 Beaucoup de restaurants en Espagne ne servent pas avant 13 heures, donc pour les affamés, prenez un gros petit dej ou prévoyez la pause méridienne en France.  
-Pour les amateurs de café, un expresso, c'est un ***café solo***, si vous demandez ***un café***, vous aurez un café au lait !
+Pour les amateurs de café, un expresso, c'est un ***café solo***, si vous demandez ***un café***, vous aurez des chances d'avoir un café au lait !
 
 ## Bonnes adresses
 
