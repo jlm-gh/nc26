@@ -1,5 +1,5 @@
 Un roadbook de 372 km pour gros rouleurs.
 
-Vous commencerez par les routes étroites et sauvages des Garrotxes (se prononce garrotches). Vous enchainerez par la route 66, dans la vallée de la Têt. Cap au sud en contournant le Canigou, par la célèbre route au 42 km de virages : Bouleternère - Saint Jean Pla-de-Corts. De là, une portion de liaison au plus rapide pour gagner la cote vermeille à Collioure.
+Vous commencerez par les routes étroites et sauvages des Garrotxes (se prononce garrotches). Vous enchainerez par la route 66, dans la vallée de la Têt. Cap au sud en contournant le Canigou, par la célèbre route au 43 km de virages : Bouleternère - Saint Jean Pla-de-Corts. De là, une portion de liaison au plus rapide pour gagner la cote vermeille à Collioure.
 Et là attention aux yeux, du virage à gogo, les Albères à votre droite et la mer à gauche, 46 km de bonheur. Une petite baignade dans une des criques est envisageable.
 Un peu de liaison à travers les paysages vallonnés de l'Alt Empordà, pour prendre de la hauteur dans le maquis espagnol jusqu'en France à Coustouges. Retour à Amélie pour déborder le Canigou. Un itinéraire différent de l'aller, mais pas moins viroleux. L'heure de l'apéro approchant, retour par la vallée de la Têt
