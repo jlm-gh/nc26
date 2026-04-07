@@ -33,6 +33,6 @@ Mieux, la [boucherie charcuterie Blanc à Bolquère](https://www.boucherie-blanc
 
 ## Bains
 Prenez votre maillot de bain, la région est riche de [bains d'eau chaude sulfureuse](https://www.pyrenees-cerdagne.com/decouvrir/le-bien-etre-en-cerdagne/les-sources-d-eaux-chaudes-naturelles).
-  * Les plus luxueux et les plus chers sont à Llo, à côté de Saillagouse, mais une partie a brulé. On vous tiendra au courant de l'éventuelle réouverture en mai.
+  * Les plus luxueux et les plus chers sont à Llo, à côté de Saillagouse. Une partie a brulé, mais ils ont en partie réouverts
   * Ensuite viennent ceux de Saint Thomas les bains, un peu plus bas sur la D66 (Prades - Montlouis)
   * Enfin les plus petits et les plus rustiques, mais on se baigne dans des vasques romaines, ceux de Dorres.
