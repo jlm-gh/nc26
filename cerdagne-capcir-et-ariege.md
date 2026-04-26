@@ -1,1 +1,7 @@
-Todo
+Ces road-books passent par le col du Pradel ou le port de Pailhères. Ces cols sont, à cette date (26 avril), fermés, mais j’ai bon espoir qu’ils soient ouverts pour la NC.
+
+On commence par un petit tour dans les Garrotxes, pour découvrir l’un des trois territoires montagneux des Pyrénées-Orientales : le Conflent. Ensuite, on plonge au milieu du Capcir, le second territoire. On oscille ensuite entre l’Aude et l’Ariège en passant par Quérigut. On profite de la vue avant de descendre dans l’une des nombreuses vallées du road-book, ici celle de l’Aude. On bifurque ensuite par une toute petite route qui nous mène jusqu’au plateau de Sault, qui offre un panorama sur les montagnes ariégeoises avec les Pyrénées en toile de fond.
+
+On plonge à nouveau le long de la pittoresque route qui suit le ruisseau du Romanis, pour arriver dans la vallée du Rebenty, que l’on remonte jusqu’à sa source, non loin du col du Pradel. On redescend ensuite jusqu’au lac de Goulours, avant de reprendre de la hauteur jusqu’au col de Marmare, qui marque le début de la route panoramique et vertigineuse surplombant Ax-les-Thermes.
+
+Après quelques petites routes, on augmente le tempo sur la N20 (attention au radar). On passe le col de Puymorens, toujours sur la N20 mais sans radar sur ce tronçon, pour entrer dans le troisième territoire : la Cerdagne. Vous remontez par l’enclave de Llivia puis Estavar. Un petit coucou au four solaire d’Odeillo, et en route pour Bolquère, puis Les Angles.
