@@ -1,23 +1,81 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Wikipedia"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
- <!-- Comments look like this -->
- <metadata>
-  <name>Data name</name>
-  <desc>Valid Points d'interet</desc>
-  <author>
-   <name>JLM</name>
-  </author>
- </metadata>
- <wpt lat="42.503255" lon="2.077451">
-  <ele>1620</ele>
-  <name>Boucherie Epicerie Blanc</name>
-  <sym>POI</sym>
- </wpt>
- <wpt lat="42.4331932" lon="1.9457670">
-  <ele>1150</ele>
-  <name>Maison Pouget</name>
-  <sym>POI</sym>
- </wpt>
+<?xml version='1.0' encoding='UTF-8' standalone='no' ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 https://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Cruiser - https://wiki.openstreetmap.org/wiki/Cruiser">
+  <metadata>
+    <name>poi</name>
+  </metadata>
+  <wpt lat="42.54261640914023" lon="1.7338273146057048">
+    <name>Daytona pièces moto</name>
+  </wpt>
+  <wpt lat="42.481759850471576" lon="1.4895209886932292">
+    <name>BMW et Suzuki</name>
+  </wpt>
+  <wpt lat="42.50502994833634" lon="1.5156242468261638">
+    <name>Magasins moto (Honda)</name>
+  </wpt>
+  <wpt lat="42.500754722103515" lon="1.509675107231132">
+    <name>Magasins moto</name>
+  </wpt>
+  <wpt lat="42.52255887766051" lon="1.5601811029815593">
+    <name>KTM</name>
+  </wpt>
+  <wpt lat="42.458576079217785" lon="1.4876756288909831">
+    <name>Yamaha</name>
+  </wpt>
+  <wpt lat="42.51112391435616" lon="1.534045658340446">
+    <name>Kawasaki</name>
+  </wpt>
+  <wpt lat="42.71824280866933" lon="2.070061459159853">
+    <name>bar</name>
+  </wpt>
+  <wpt lat="42.72454057553966" lon="1.8919574161529562">
+    <name>Restaurant</name>
+  </wpt>
+  <wpt lat="42.70117887582152" lon="1.8897955556869528">
+    <name>Restaurant</name>
+  </wpt>
+  <wpt lat="42.4658199478401" lon="1.888840689277651">
+    <name>Boulangerie café</name>
+  </wpt>
+  <wpt lat="42.46282821415343" lon="1.9848423143386862">
+    <name>Bars</name>
+  </wpt>
+  <wpt lat="42.301479341312216" lon="2.1669321957397614">
+    <name>Bar</name>
+  </wpt>
+  <wpt lat="42.248219617360135" lon="2.0927744808960114">
+    <name>Restaurants</name>
+  </wpt>
+  <wpt lat="42.24566227272952" lon="1.9802128973770294">
+    <name>Restaurants</name>
+  </wpt>
+  <wpt lat="42.27830827961533" lon="2.0049589577484284">
+    <name>Bar</name>
+  </wpt>
+  <wpt lat="42.282495495556276" lon="2.0167714062500153">
+    <name>Bars</name>
+  </wpt>
+  <wpt lat="42.132540034284006" lon="1.993502508621221">
+    <name>Restaurant</name>
+  </wpt>
+  <wpt lat="42.21010367907613" lon="1.5520484556961112">
+    <name>Restaurant</name>
+  </wpt>
+  <wpt lat="42.17638478267721" lon="1.590656172256475">
+    <name>Restaurant</name>
+  </wpt>
+  <wpt lat="42.13698355617757" lon="1.5907580961990408">
+    <name>Restaurants</name>
+  </wpt>
+  <wpt lat="42.35970547385589" lon="1.694473754386907">
+    <name>Bars</name>
+  </wpt>
+  <wpt lat="42.37024863252092" lon="1.7788828720855765">
+    <name>Bars</name>
+  </wpt>
+  <wpt lat="42.503255" lon="2.077451">
+    <name>Boucherie Epicerie Blanc</name>
+  </wpt>
+  <wpt lat="42.4331932" lon="1.945767">
+    <name>Maison Pouget</name>
+  </wpt>
 </gpx>
